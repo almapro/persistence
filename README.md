@@ -1,3 +1,3 @@
 # Persistence
 
-The most effective tools & techeniques for persistence
+The most effective tools & techeniques used in Post-Exploitation
