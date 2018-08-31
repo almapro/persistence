@@ -1,6 +1,6 @@
 # Mapping tools
 
-Mapping tools are the most usefull tools to map the victim's network.
+These tools are the most usefull tools to map the victim's network.
 
 You can use:
 
