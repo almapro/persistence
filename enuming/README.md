@@ -6,5 +6,5 @@ You can use:
  - invoke-mimikatz.ps1 to enum:
    - plaintext passwords from memory
    - change users' passwords
-   - list, create, impersonate token (act in the context of another user)
+   - list, create, impersonate tokens (act in the context of another user)
    - and more...
